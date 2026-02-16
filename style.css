@@ -7,11 +7,10 @@ body {
   padding: 0;
   font-family: "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
   height: 100%;
-  background-color: #999999;
 }
 
 .nav {
-  background-color: #666;
+  background-color: #C62828;
 }
 
 .nav ul {
@@ -55,7 +54,7 @@ body {
 }
 
 .footer {
-  background-color: #666;
+  background-color: #C62828;
   height: 60px;
   color: #fff;
   display: flex;
